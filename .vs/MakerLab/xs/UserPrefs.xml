@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2FBD1851-2BED-8DC9-0E29-F9BED03EF89D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/script/PlayerController.cs" Line="17" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MakerLab" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="script" expanded="True">
+                <Node name="PlayerController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a9e1c1aa-30c8-4648-83d4-4a2f83de64b6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
